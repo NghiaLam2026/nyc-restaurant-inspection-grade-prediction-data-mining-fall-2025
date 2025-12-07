@@ -63,7 +63,7 @@ This imbalance would become a central challenge throughout the project, requirin
 
 **Spatial Distribution**:
 - Restaurants were distributed across all five boroughs
-- Latitude and Longitude showed statistical significance in differentiating grades (Kruskal-Wallis test: p < 0.05)
+- Latitude and Longitude showed statistical significance in differentiating grades
 
 ### Temporal Trends
 
